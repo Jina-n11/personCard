@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeImage">93dp</dimen>
+    <dimen name="reduceNormal">8dp</dimen>
+    <dimen name="reduceFull">100dp</dimen>
+    <dimen name="heightCard">117dp</dimen>
+    <dimen name="spaceNormal">12dp</dimen>
+    <dimen name="spaceMid">8dp</dimen>
+    <dimen name="spaceSmall">4dp</dimen>
+    <dimen name="sizeBodyText">12sp</dimen>
+    <dimen name="chipWidth">38dp</dimen>
+    <dimen name="chipHeight">20dp</dimen>
+    <dimen name="sizeTextTitle">16sp</dimen>
+    <dimen name="lineHeight">16dp</dimen>
+    <dimen name="smallLineHeight">12dp</dimen>
+    <dimen name="bottomSpace">11dp</dimen>
+    <dimen name="largeLineHeight">20.83dp</dimen>
+</resources>
