@@ -39,7 +39,7 @@
                     android:layout_gravity="center"
                     android:layout_marginEnd="@dimen/spaceMid"
                     android:layout_weight="1"
-                    android:height="@dimen/largeLineHeight"
+                    android:lineHeight="@dimen/largeLineHeight"
                     android:fontFamily="@font/dm_sans_bold"
                     android:text="@string/name"
                     android:textColor="@color/black"
@@ -55,7 +55,7 @@
                     android:paddingTop="@dimen/spaceSmall"
                     android:paddingBottom="@dimen/spaceSmall"
                     android:text="@string/hours"
-                    android:height="@dimen/smallLineHeight"
+                    android:lineHeight="@dimen/smallLineHeight"
                     android:textColor="@color/white"
                     android:textSize="@dimen/sizeBodyText" />
 
@@ -77,7 +77,7 @@
                     android:layout_marginEnd="@dimen/spaceMid"
                     android:fontFamily="@font/dm_sans_medium"
                     android:gravity="start"
-                    android:height="@dimen/lineHeight"
+                    android:lineHeight="@dimen/lineHeight"
                     android:text="@string/job"
                     android:textColor="@color/secondaryTextColor_87"
                     android:textSize="@dimen/sizeBodyText" />
@@ -89,7 +89,7 @@
                     android:layout_weight="1"
                     android:fontFamily="@font/dm_sans_medium"
                     android:gravity="end"
-                    android:height="@dimen/lineHeight"
+                    android:lineHeight="@dimen/lineHeight"
                     android:text="@string/city"
                     android:textColor="@color/secondaryTextColor_87"
                     android:textSize="@dimen/sizeBodyText" />
@@ -118,7 +118,7 @@
                     android:fontFamily="@font/dm_sans"
                     android:gravity="start"
                     android:text="@string/location"
-                    android:height="@dimen/lineHeight"
+                    android:lineHeight="@dimen/lineHeight"
                     android:textColor="@color/secondaryTextColor_60"
                     android:textSize="@dimen/sizeBodyText" />
 
@@ -130,7 +130,7 @@
                     android:fontFamily="@font/dm_sans"
                     android:gravity="end"
                     android:text="@string/time_period"
-                    android:height="@dimen/lineHeight"
+                    android:lineHeight="@dimen/lineHeight"
                     android:textColor="@color/secondaryTextColor_38"
                     android:textSize="@dimen/sizeBodyText" />
 
@@ -151,7 +151,7 @@
                     android:gravity="start"
                     android:text="@string/reviews"
                     android:textColor="@color/black"
-                    android:height="@dimen/lineHeight"
+                    android:lineHeight="@dimen/lineHeight"
                     android:textSize="@dimen/sizeBodyText" />
 
                 <TextView
@@ -163,7 +163,7 @@
                     android:gravity="end"
                     android:text="@string/rate"
                     android:textColor="@color/black"
-                    android:height="@dimen/lineHeight"
+                    android:lineHeight="@dimen/lineHeight"
                     android:textSize="@dimen/sizeBodyText" />
 
                 <ImageView
